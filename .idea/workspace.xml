@@ -2,20 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a253c346-05ef-432e-a448-250ecd274a7f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lec2-text-template/text-template-1/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lec2-text-template/text-template-2/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lec2-text-template/text-template-3/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lec2-text-template/text-template-4/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lec2-text-template/text-template-5/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lec2-text-template/text-template-6/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lec3-text-template-improved/text-template-1/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lec3-text-template-improved/text-template-2/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lec3-text-template-improved/text-template-3/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lec3-text-template-improved/text-template-4/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lec3-text-template-improved/text-template-5/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lec3-text-template-improved/text-template-6/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lec4-text-template-advanced/text-template-1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lec4-text-template-advanced/text-template-2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lec4-text-template-advanced/text-template-3/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lec4-text-template-advanced/text-template-4/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lec4-text-template-advanced/text-template-5-1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lec4-text-template-advanced/text-template-5-1/test.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lec4-text-template-advanced/text-template-5/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lec4-text-template-advanced/text-template-5/test.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lec4-text-template-advanced/text-template-6-1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lec4-text-template-advanced/text-template-6-2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lec4-text-template-advanced/text-template-6/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lec4-text-template-advanced/text-template-html-7-1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lec4-text-template-advanced/text-template-html-7/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +48,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lec3-text-template-improved" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lec4-text-template-advanced" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -56,14 +58,15 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lec1-helloworld-http/hello-server-1" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lec4-text-template-advanced" />
       <recent name="$PROJECT_DIR$/lec3-text-template-improved" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/lec2-text-template" />
       <recent name="$PROJECT_DIR$/lec1-helloworld-http" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/lec1-helloworld-http/hello-server-1" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -78,59 +81,59 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build github.com/azd1997/go-web-learning/lec3-text-template-improved/text-template-5">
-    <configuration name="go build github.com/azd1997/go-web-learning/lec3-text-template-improved/text-template-1" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build github.com/azd1997/go-web-learning/lec4-text-template-advanced/text-template-html-7-1">
+    <configuration name="go build github.com/azd1997/go-web-learning/lec4-text-template-advanced/text-template-6-1" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go-web-learning" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/lec3-text-template-improved/text-template-1/main.go" />
-      <package value="github.com/azd1997/go-web-learning/lec3-text-template-improved/text-template-1" />
+      <filePath value="$PROJECT_DIR$/lec4-text-template-advanced/text-template-6-1/main.go" />
+      <package value="github.com/azd1997/go-web-learning/lec4-text-template-advanced/text-template-6-1" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build github.com/azd1997/go-web-learning/lec3-text-template-improved/text-template-2" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build github.com/azd1997/go-web-learning/lec4-text-template-advanced/text-template-6-2" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go-web-learning" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/lec3-text-template-improved/text-template-2/main.go" />
-      <package value="github.com/azd1997/go-web-learning/lec3-text-template-improved/text-template-2" />
+      <filePath value="$PROJECT_DIR$/lec4-text-template-advanced/text-template-6-2/main.go" />
+      <package value="github.com/azd1997/go-web-learning/lec4-text-template-advanced/text-template-6-2" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build github.com/azd1997/go-web-learning/lec3-text-template-improved/text-template-3" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build github.com/azd1997/go-web-learning/lec4-text-template-advanced/text-template-6" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go-web-learning" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/lec3-text-template-improved/text-template-3/main.go" />
-      <package value="github.com/azd1997/go-web-learning/lec3-text-template-improved/text-template-3" />
+      <filePath value="$PROJECT_DIR$/lec4-text-template-advanced/text-template-6/main.go" />
+      <package value="github.com/azd1997/go-web-learning/lec4-text-template-advanced/text-template-6" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build github.com/azd1997/go-web-learning/lec3-text-template-improved/text-template-4" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build github.com/azd1997/go-web-learning/lec4-text-template-advanced/text-template-html-7-1" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go-web-learning" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/lec3-text-template-improved/text-template-4/main.go" />
-      <package value="github.com/azd1997/go-web-learning/lec3-text-template-improved/text-template-4" />
+      <filePath value="$PROJECT_DIR$/lec4-text-template-advanced/text-template-html-7-1/main.go" />
+      <package value="github.com/azd1997/go-web-learning/lec4-text-template-advanced/text-template-html-7-1" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build github.com/azd1997/go-web-learning/lec3-text-template-improved/text-template-5" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build github.com/azd1997/go-web-learning/lec4-text-template-advanced/text-template-html-7" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go-web-learning" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/lec3-text-template-improved/text-template-5/main.go" />
-      <package value="github.com/azd1997/go-web-learning/lec3-text-template-improved/text-template-5" />
+      <filePath value="$PROJECT_DIR$/lec4-text-template-advanced/text-template-html-7/main.go" />
+      <package value="github.com/azd1997/go-web-learning/lec4-text-template-advanced/text-template-html-7" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build github.com/azd1997/go-web-learning/lec3-text-template-improved/text-template-5" />
-        <item itemvalue="Go Build.go build github.com/azd1997/go-web-learning/lec3-text-template-improved/text-template-4" />
-        <item itemvalue="Go Build.go build github.com/azd1997/go-web-learning/lec3-text-template-improved/text-template-3" />
-        <item itemvalue="Go Build.go build github.com/azd1997/go-web-learning/lec3-text-template-improved/text-template-2" />
-        <item itemvalue="Go Build.go build github.com/azd1997/go-web-learning/lec3-text-template-improved/text-template-1" />
+        <item itemvalue="Go Build.go build github.com/azd1997/go-web-learning/lec4-text-template-advanced/text-template-html-7-1" />
+        <item itemvalue="Go Build.go build github.com/azd1997/go-web-learning/lec4-text-template-advanced/text-template-html-7" />
+        <item itemvalue="Go Build.go build github.com/azd1997/go-web-learning/lec4-text-template-advanced/text-template-6-2" />
+        <item itemvalue="Go Build.go build github.com/azd1997/go-web-learning/lec4-text-template-advanced/text-template-6-1" />
+        <item itemvalue="Go Build.go build github.com/azd1997/go-web-learning/lec4-text-template-advanced/text-template-6" />
       </list>
     </recent_temporary>
   </component>
